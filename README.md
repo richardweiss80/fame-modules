@@ -9,6 +9,7 @@ The idea to use FAME for Malware Analysis was inspiered by Xavier Mertens. He is
 ## Included Modules
 * Processing
   * capa
+  * pefile
 
 ## Licenses
 Licenses are described in each module.
